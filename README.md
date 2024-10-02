@@ -55,6 +55,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: harsh181507@example.com
+- **Email**: harsh.sshr@gmail.com
 - **GitHub**: [Harsh181507](https://github.com/Harsh181507)
 
