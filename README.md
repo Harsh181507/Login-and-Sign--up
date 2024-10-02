@@ -24,15 +24,13 @@ To get a local copy up and running, follow these steps.
    
 3. Sync Gradle and run the project on an emulator or a physical device.
 
-## 📸 Screenshots
-
 
 ## 🛠️ Built With
 
 - **Kotlin**: The primary programming language used.
 - **Android Studio**: The integrated development environment for building the app.
 - **ViewBinding**: For binding views directly in Kotlin.
-- **FireBase**:For Authentication
+- **FireBase**:For Authentication and Data Storage 
 
 ## ✨ Upcoming Features
 
